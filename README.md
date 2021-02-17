@@ -7,7 +7,7 @@ The project answered the quite interesting questions that were roaming around hi
 
 ### Some technical info for the data enthusiasts:
 I’ve made the code available on GitHub. Feel free to fork, clone, play and ask anything about it.
-VADER is a great nltk tool for analyzing text data sentiment in Python, if you haven’t got a training set with labels available. It uses term scoring for a wide lexicon of words and after reviewing a sample data from my export — it actually is pretty damn accurate!
+VADER is a great NLP tool for analyzing text data sentiment in Python.
 Word clouds were generated with Python’s WordCloud library and were decent (we conversed in traditional Bengali language using English letters).
 Here are some links that I found useful and you might too!
 

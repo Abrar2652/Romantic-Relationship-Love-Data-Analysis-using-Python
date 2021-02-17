@@ -1,7 +1,7 @@
 # Romantic-Relationship-Love-Data-Analysis-using-Python
 This is an interesting data analytics research project of Facebook messenger data between two lovers being in a long-term committed relationship. The dataset contains data from July 2020 to February 2021. It required a huge data cleaning process on the JSON files after merging them into a single file. 
 
-Md. Abrar Jahin, being the author of this project, tried to show the data analysis procedures using powerful Python libraries. He showed the process of how to code and leave the rest upon the local machine to analyze the data. 
+Md. Abrar Jahin, being the author of this project, tried to show the data analysis procedures using powerful Python libraries. He showed the process of how to code and left the rest upon the local machine to analyze the data. 
 
 The project answered the quite interesting questions that were roaming around his head such as who texts more on average per day and per hour, who texts first, who replies late on an average, the sentiments throughout the day, the hour when they both remain free and love to talk much, and so on. 
 

@@ -8,7 +8,10 @@ The project answered the quite interesting questions that were roaming around hi
 Thanks to the sweet life partner of Abrar, who constantly supports him and appreciates every initiative he takes no matter how small or big a project is. A relationship requires proper direction and effort to be consistent and healthy. This analysis is nothing but a tremendous representation of evaluating the progress of a healthy relationship and taking measures to make it more efficient for both.
 
 A thousand minutes of surfing in the *Stack OverFlow*, *Python Library Documentations* resulted in a successful outcome. Have a happy life. Happy coding!!!
+
 Connect me on LinkedIn:
 https://www.linkedin.com/in/md-abrar-jahin-9a026018b/
+
+
 Add me on Facebook:
 https://www.facebook.com/in/abrar.jahin.2652

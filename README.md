@@ -11,9 +11,9 @@ VADER is a great nltk tool for analyzing text data sentiment in Python, if you h
 Word clouds were generated with Python’s WordCloud library and were decent (we conversed in traditional Bengali language using English letters).
 Here are some links that I found useful and you might too!
 
-**Plotly** — (https://plot.ly/python/getting-started/) an interactive plotting library for Python (and other languages) with detailed documentation pages.
+**[Plotly](https://plot.ly/python/getting-started/)** —  an interactive plotting library for Python (and other languages) with detailed documentation pages.
 
-**VADER** — (http://t-redactyl.io/blog/2017/04/using-vader-to-handle-sentiment-analysis-with-social-media-text.html) this page gives a great walk-through of what’s behind the scenes and how to use the tool very practically. If you want to edit the lexicon and add your own terms with the `update` method:
+**[VADER](http://t-redactyl.io/blog/2017/04/using-vader-to-handle-sentiment-analysis-with-social-media-text.html)** — this page gives a great walk-through of what’s behind the scenes and how to use the tool very practically. If you want to edit the lexicon and add your own terms with the `update` method:
 
 ```
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer

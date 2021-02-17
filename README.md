@@ -9,6 +9,10 @@ Thanks to the sweet life partner of Abrar, who constantly supports him and appre
 
 A thousand minutes of surfing in the *Stack OverFlow*, *Python Library Documentations* resulted in a successful outcome. Have a happy life. Happy coding!!!
 
+To view the .ipynb Jupyter Notebook file, go to:
+https://nbviewer.jupyter.org/
+and paste link: https://github.com/Abrar2652/Romantic-Relationship-Love-Data-Analysis-using-Python/blob/main/Facebook%20Romantic%20Relationship%20%26%20Love%20Data%20Analysis.ipynb
+
 Connect me on LinkedIn:
 https://www.linkedin.com/in/md-abrar-jahin-9a026018b/
 

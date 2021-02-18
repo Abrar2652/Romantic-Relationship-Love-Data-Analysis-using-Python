@@ -6,7 +6,7 @@ Md. Abrar Jahin, being the author of this project, tried to show the data analys
 The project answered the quite interesting questions that were roaming around his head such as who texts more on average per day and per hour, who texts first, who replies late on an average, the sentiments throughout the day, the hour when they both remain free and love to talk much, and so on. 
 
 ### Some technical info for the data enthusiasts:
-I’ve made the code available on GitHub. Feel free to fork, clone, play and ask anything about it.
+The code is available on GitHub. Feel free to fork, clone, play and ask anything about it.
 VADER is a great NLP tool for analyzing text data sentiment in Python.
 Word clouds were generated with Python’s WordCloud library and were decent (we conversed in traditional Bengali language using English letters).
 Here are some links that I found useful and you might too!
